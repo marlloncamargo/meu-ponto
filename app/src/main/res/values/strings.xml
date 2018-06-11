@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meu Ponto</string>
+    <color name="backgroundColor">#0a668c</color>
+    <color name="textColor">#ffffff</color>
+    <color name="positiveColor">#0abf1f</color>
+    <color name="alternativePositive">#0786ba</color>
+</resources>

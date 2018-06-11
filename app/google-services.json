@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "501892566147",
+    "firebase_url": "https://meu-ponto-cfc1c.firebaseio.com",
+    "project_id": "meu-ponto-cfc1c",
+    "storage_bucket": "meu-ponto-cfc1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501892566147:android:49e46d6b42bd5654",
+        "android_client_info": {
+          "package_name": "com.meuponto.meuponto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501892566147-fbth82ituebr1vcqduoqvu35cvsgs8o3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRT6ItGghEnqOVNdfZ_mTVgpEwSOFfGPw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
